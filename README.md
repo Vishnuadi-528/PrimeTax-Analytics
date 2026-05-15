@@ -1,4 +1,4 @@
-#PrimeTax-Analytics
+PrimeTax-Analytics
 
 PrimeTax Analytics is a full-stack personal finance and tax management platform designed to help users efficiently track income, expenses, budgets, and tax estimations through an intuitive dashboard.
 
